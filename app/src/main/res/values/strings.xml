@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MapTest</string>
+    <string name="button">Button</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="googleApi">AIzaSyDKIs1G-vT2HuU30sozJzeI09Sp-aGb_zQ</string>
+    <string name="button2">Vissza</string>
+    <string name="username">felhasználónév</string>
+    <string name="password">jelszó</string>
+    <string name="sign_in_button">bejelentkezés</string>
+    <string name="varosok">VÁROSOK</string>
+    <string name="kereses">Keres</string>
+</resources>
